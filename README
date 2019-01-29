@@ -1,0 +1,2 @@
+•	Data Warehouse and Business Intelligence- Designed a Data warehouse for TED talks by automating the entire ETL process using data from three diverse sources and formats which included semi-structured data of locations from TED website and unstructured data of likes, dislikes, views and comments from YouTube by scraping it. Finally, business intelligence was drawn for TED talks.
+Technologies used: R, Python, SQL, SSMS, SSIS, SSAS and Tableau. 
